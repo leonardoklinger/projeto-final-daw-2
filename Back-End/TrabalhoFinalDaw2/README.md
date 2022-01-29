@@ -1,9 +1,9 @@
 Atualizar dados do application.properties
 ~~~SQL
 spring.jpa.hibernate.ddl-auto=update
-spring.datasource.url=jdbc:postgresql://localhost/postgres
-spring.datasource.username=postgres
-spring.datasource.password=rushfan2112
+spring.datasource.url=jdbc:
+spring.datasource.username=
+spring.datasource.password=
 spring.datasource.driver-class-name=org.postgresql.Driver
 
 spring.mail.host=smtp.gmail.com
